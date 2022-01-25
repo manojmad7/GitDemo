@@ -11,6 +11,17 @@ public class Demo {
 		
 		System.out.println("Am the new code");
 		System.out.println("Am the new code2");
+		
+		System.out.println("Am the new code");
+		System.out.println("Am the new code2");
+		
+		System.out.println("Am the new code");
+		System.out.println("Am the new code2");
+		
+		System.out.println("Am the new code");
+		System.out.println("Am the new code2");
+		
+		System.out.println("Am the new code");
 	}
 
 }
