@@ -9,19 +9,14 @@ public class Demo {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 		
-		System.out.println("Am the new code");
-		System.out.println("Am the new code2");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
 		
-		System.out.println("Am the new code");
-		System.out.println("Am the new code2");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
 		
-		System.out.println("Am the new code");
-		System.out.println("Am the new code2");
-		
-		System.out.println("Am the new code");
-		System.out.println("Am the new code2");
-		
-		System.out.println("Am the new code");
 	}
 
 }

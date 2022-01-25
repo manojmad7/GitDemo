@@ -41,6 +41,16 @@ class Atos
 		System.out.println("Project is "+prjct);
 		System.out.println("No. of members in workday "+membrs);
 	}
+	
+	private void sysout() {
+		// TODO Auto-generated method stub
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		System.out.println("Am in GIT hub Hurrrayyy..!!!!!!!!!!!!!!!");
+		
+	}
 }
 
 
